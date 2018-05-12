@@ -2,5 +2,5 @@ package hhhhh;
 
 public class HelloWorld {
 
-	private int id;
+	private int a;
 }
